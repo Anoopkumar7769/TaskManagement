@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TaskManagement.Models.ViewModels.RecordsViewModel>
+
+<a class=" btn btn-info" asp-controller="Record" asp-action="Create">Create New Task</a>
+
+   <div class="row" style="margin-top:25px">
+      @foreach(var data in Model){
+         <div class="col-sm-3 col-md-3">
+            <div class="card text-white bg-@data.color mb-3" style="max-width: 25rem;">
+                <div class="card-header">@data.title</div>
+                    <div class="card-body">
+                       <h5 class="card-title">@data.description</h5>
+                       <h6 class="card-title">Date: @data.dateTime.Substring(0,10)</h6>
+                        <h6 class="card-title">Time: @data.dateTime.Substring(12)</h6>
+                        <div>
+                            <a asp-controller="Record" asp-action="Update" asp-route-Id="@data.rec_id" class="btn btn-dark ">Edit</a>
+                           @* <a asp-controller="Record" asp-action="Delete" asp-route-Id="@data.rec_id" class="btn btn-dark " style="margin:20px" onclick="return confirm('Are you sure to delete this task?');">Delete</a>*@
+                            <a class="btn btn-danger delete" data-id="@data.rec_id" data-controller="Record" data-action="Delete"
+                                 data-body-message="Are you sure to delete this task?">Delete</a>
+                       </div>
+                         
+                     </div>
+                 </div>
+            </div>
+                }
+      </div>
+     
+   
+        
+    

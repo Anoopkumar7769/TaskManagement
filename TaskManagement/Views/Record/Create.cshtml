@@ -1,0 +1,52 @@
+﻿@model TaskManagement.Models.ViewModels.RecordsViewModel
+<h1>Task Scheduler</h1>  <hr />  
+
+<div class="row">  
+    <div class="col-md-6">
+         <form method="post">   
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="container-fluid">
+
+                <input asp-for="rec_id" hidden />
+
+                <input asp-for="color" id="label" type="hidden"/>
+                <label asp-for="title" class="control-label"></label>  
+                <input asp-for="title" class="form-control"/>  
+              @*<span asp-validation-for="title" class="text-danger"></span>*@
+
+                <label asp-for="description" class="control-label"></label>  
+                <input asp-for="description" class="form-control" type="description"/>  
+              @*<span asp-validation-for="description" class="text-danger"></span>*@
+
+                <label asp-for="dateTime" class="control-label"></label>  
+                <input type="datetime-local" asp-for="dateTime" class="form-control" />
+               @* <span asp-validation-for="dateTime" class="text-danger"></span> *@
+
+                <div class="form-group" style="margin-top:30px">
+                    <input type="submit" value="Submit" class="btn btn-primary" />  
+                </div>
+              
+                <input id="getColor" asp-for="color" hidden />
+                
+                <div id="container" class="card bg-primary" style="width: 200px;height: 200px;margin-left: 620px;margin-top: -270px">
+                    <div class="card-header"></div>
+                        <div class="card-body">
+                          <h5 class="card-title"></h5>
+                           <p class="card-text"></p>
+                         </div>
+                    </div>
+
+                 <linkbutton id="cardbutton" style="background-color:aqua;margin-top:10px;white-space:nowrap;text-align:center;margin-left:672px;width:120px;height:50px">Change Color</linkbutton>
+                 </div>
+        </form>  
+            </div>  
+        </div>  
+        <div>  
+           
+        </div>  
+  
+   @*Client Side validation*@
+    @section Scripts{
+        @{ <partial name="_ValidationScriptsPartial" /> }
+        }

@@ -1,0 +1,258 @@
+﻿++Solution 'TaskManagement' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:TaskManagement.sln
+++Script Documents
+++jquery.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\dist\jquery.min.js
+++bootstrap.bundle.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++site.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\js\site.js
+++delete.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\js\delete.js
+++aspnetcore-browser-refresh.js
+++browserLink
+++TaskManagement
+i:{00000000-0000-0000-0000-000000000000}:TaskManagement
+++Connected Services 
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1283
+++Dependencies
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1282
+++Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:analyzers
+++Frameworks
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:frameworks
+++Packages
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:packages
+++Blazored.LocalStorage (4.2.0)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1295
+++EntityFramework (6.4.4)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1304
+++Mailjet.Api (2.0.2)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1299
+++Microsoft.AspNet.Mvc (5.0.1)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1301
+++Microsoft.AspNetCore.Authentication.Google (5.0.10)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1300
+++Microsoft.AspNetCore.Identity.UI (5.0.10)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1306
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.11)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1296
+++Microsoft.AspNetCore.Session (2.2.0)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1302
+++Microsoft.EntityFrameworkCore (5.0.10)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1297
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.10)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1298
+++Microsoft.EntityFrameworkCore.Tools (5.0.10)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1303
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1305
+++Quartz (3.3.3)
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1361
+++Properties
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\properties\
+++launchSettings.json
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\properties\launchsettings.json
+++wwwroot
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\
+++css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\css\
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\css\site.css
+++js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\js\
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\
+++bootstrap
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\
+++jquery
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\
+++jquery-validation
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\favicon.ico
+++Controllers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\controllers\
+++AccountController.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\controllers\accountcontroller.cs
+++HomeController.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\controllers\homecontroller.cs
+++RecordController.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\controllers\recordcontroller.cs
+++Data
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\data\
+++ApplicationDbContext.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\data\applicationdbcontext.cs
+++Migrations
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\
+++20220208064540_addRegisterToDatabse.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\20220208064540_addregistertodatabse.cs
+++20220209081545_AddRecordsToDb.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\20220209081545_addrecordstodb.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\
+++Schedule
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\schedule\
+++SchedulerTask.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\schedule\schedulertask.cs
+++Task1.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\schedule\task1.cs
+++ViewModels
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\viewmodels\
+++LoginViewModel.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\viewmodels\loginviewmodel.cs
+++MyModels.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\viewmodels\mymodels.cs
+++RecordsViewModel.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\viewmodels\recordsviewmodel.cs
+++RegisterViewModel.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\viewmodels\registerviewmodel.cs
+++ErrorViewModel.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\models\errorviewmodel.cs
+++Utility
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\utility\
+++EmailSender.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\utility\emailsender.cs
+++Views
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\
+++Account
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\account\
+++Index.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\account\index.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\home\index.cshtml
+++Login.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\account\login.cshtml
+++Register.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\account\register.cshtml
+++Home
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\home\
+++Privacy.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\home\privacy.cshtml
+++Record
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\record\
+++Create.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\record\create.cshtml
+++GetData.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\record\getdata.cshtml
+++Shared
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\shared\
+++_Layout.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\views\_viewstart.cshtml
+++appsettings.json
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\appsettings.json
+++appsettings.Development.json
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\appsettings.development.json
+++Program.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\program.cs
+++Startup.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\startup.cs
+++update and delete.txt
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\update and delete.txt
+++No service dependencies discovered
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:>1284
+++Microsoft.AspNetCore.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\microsoft.netcore.app
+++dist
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\dist\
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\license.txt
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20220208064540_addRegisterToDatabse.Designer.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\20220208064540_addregistertodatabse.designer.cs
+++20220209081545_AddRecordsToDb.Designer.cs
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\migrations\20220209081545_addrecordstodb.designer.cs
+++jquery.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++additional-methods.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.min.js.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++VM5
+++sample.txt
+i:{50b85a26-b0fe-41d2-a6fd-6e65f303f0c1}:c:\users\237598\desktop\asp.net web applications\taskmanagement\taskmanagement\sample.txt
